@@ -1,7 +1,6 @@
 #pragma once
 
 #include <stdexcept>
-#include <sys/io.h>
 #include <sys/uio.h>
 #include <unistd.h>
 #include <cstdlib>
